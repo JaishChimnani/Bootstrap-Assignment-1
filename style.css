@@ -1,5 +1,5 @@
 body{
-    background-color:cadetblue;
+    background:linear-gradient(lightblue ,white);
 }
 form label,input{
     padding: 2px;
