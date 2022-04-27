@@ -1,0 +1,10 @@
+body{
+    background-color:cadetblue;
+}
+form label,input{
+    padding: 2px;
+    margin: 2px;
+}
+.container{
+    margin: 20px 100px;
+}
